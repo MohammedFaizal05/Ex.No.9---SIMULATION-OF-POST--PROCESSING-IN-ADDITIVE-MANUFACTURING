@@ -47,8 +47,15 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![image](https://github.com/MohammedFaizal05/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/120553195/3de2246c-131c-47ea-9eca-11e58aa1f966)
+
+![image](https://github.com/MohammedFaizal05/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/120553195/8b78fff1-bd5c-4d6e-88b0-c077c63b51c4)
+
+![image](https://github.com/MohammedFaizal05/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/120553195/352aa45f-bd74-40bd-b7f4-e94927c7ef39)
+
+### Name: Mohammed Faizal.J
+
+### Register Number: 212222100027
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
